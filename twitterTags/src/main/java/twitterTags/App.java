@@ -20,6 +20,7 @@ public class App
     	topTwitterTags(20);
     }
     
+    
     public static void topTwitterTags(int numOfTags) {
     	Logger.getLogger("org").setLevel(Level.ERROR);
     	
